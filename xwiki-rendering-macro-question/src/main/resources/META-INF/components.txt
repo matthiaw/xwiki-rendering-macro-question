@@ -1,0 +1,4 @@
+org.xwiki.rendering.question.QuestionEventListener
+org.xwiki.rendering.question.QuestionClassBuilder
+org.xwiki.rendering.question.QuestionClassInitializer
+org.xwiki.rendering.question.QuestionMacro
